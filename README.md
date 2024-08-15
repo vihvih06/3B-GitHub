@@ -1,4 +1,4 @@
-# Vitória de Paula Miranda
+https://github.com/vihvih06/3B-GitHub/wiki# Vitória de Paula Miranda
 
 - Estou estudando no alura
 - Estou me desenvolvendo no GitHub
@@ -7,3 +7,5 @@
   ### Você pode entrar em contato comigo:
 
   vihdepaulamiranda1707@gmail.com
+
+![](https://media1.tenor.com/m/wamL_NeO8-wAAAAd/bunnies-what.gif)
