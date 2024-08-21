@@ -1,4 +1,4 @@
-https://github.com/vihvih06/3B-GitHub/wiki# Vitória de Paula Miranda
+# Vitória de Paula Miranda
 
 - Estou estudando no alura
 - Estou me desenvolvendo no GitHub
